@@ -1,5 +1,5 @@
 export default {
-  defaultUserId: 'hoyong=jung'
+  defaultUserId: 'hoyongjung'
 }
 export const configOptions = {
   development: {
